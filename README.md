@@ -35,7 +35,7 @@ screenshots/ → dashboard previews
 4. Use slicers to explore the data
 
 ## 📸 Preview
-![Dashboard](Interactive HR Dashboard Excel.xlsx)
+![Dashboard](HR_Dashboard_screenshot.png)
 
 ## 📚 Dataset
 This project uses a sample HR dataset provided by AIHR (Academy to Innovate HR) for educational and practice purposes.
